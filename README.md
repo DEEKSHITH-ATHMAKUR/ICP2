@@ -1,1 +1,3 @@
-Name: DEEKSHITH ATHMAKUR Id:700743388 GithubLink:    VideoLink:
+Name: DEEKSHITH ATHMAKUR Id:700743388 
+GithubLink:https://github.com/DEEKSHITH-ATHMAKUR/ICP2 
+VideoLink:
